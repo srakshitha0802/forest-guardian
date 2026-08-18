@@ -39,12 +39,26 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <h3>Dashboard & Monitoring</h3>
-  <img width="450" alt="Dashboard 1" src="assets/Screenshot%202026-08-18%20at%207.08.04%20PM.png" />
-  <img width="450" alt="Dashboard 2" src="assets/Screenshot%202026-08-18%20at%207.08.10%20PM.png" />
-</div>Screenshot%202026-08-18%20at%207.08.04%20PM.png" alt="Forest Guardian Dashboard" width="48%" />
-<img src="./assets/Screenshot%202026-08-18%20at%207.08.10%20PM.png" alt="Forest Guardian Monitoring Dashboard" width="48%" />
 
+### 🌲 Dashboard & Monitoring
+
+<img src="./assets/dashboard-1.png" alt="Forest Guardian Dashboard" width="48%" />
+<img src="./assets/dashboard-2.png" alt="Forest Guardian Monitoring" width="48%" />
+
+<br><br>
+
+### 🚨 Incident & Alert Management
+
+<img src="./assets/incidents.png" alt="Incident Management" width="48%" />
+<img src="./assets/alerts.png" alt="Alert Management" width="48%" />
+
+<br><br>
+
+### 🤖 Additional Features
+
+<img src="./assets/features.png" alt="Forest Guardian Features" width="70%" />
+
+</div>
 <br><br>
 
 ### 🚨 Incident & Alert Management
