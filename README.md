@@ -42,21 +42,21 @@
   <h3>Dashboard & Monitoring</h3>
   <img width="450" alt="Dashboard 1" src="assets/Screenshot%202026-08-18%20at%207.08.04%20PM.png" />
   <img width="450" alt="Dashboard 2" src="assets/Screenshot%202026-08-18%20at%207.08.10%20PM.png" />
-</div>
+</div>Screenshot%202026-08-18%20at%207.08.04%20PM.png" alt="Forest Guardian Dashboard" width="48%" />
+<img src="./assets/Screenshot%202026-08-18%20at%207.08.10%20PM.png" alt="Forest Guardian Monitoring Dashboard" width="48%" />
 
-<div align="center">
-  <h3>Incident & Alert Management</h3>
-  <img width="450" alt="Incidents" src="assets/Screenshot%202026-08-18%20at%207.08.21%20PM.png" />
-  <img width="450" alt="Alerts" src="assets/Screenshot%202026-08-18%20at%207.08.26%20PM.png" />
-</div>
+<br><br>
 
-<div align="center">
-  <h3>Additional Features</h3>
-  <img width="450" alt="Features" src="assets/Screenshot%202026-08-18%20at%207.09.33%20PM.png" />
-</div>
+### 🚨 Incident & Alert Management
 
----
+<img src="./assets/Screenshot%202026-08-18%20at%207.08.21%20PM.png" alt="Forest Incident Management" width="48%" />
+<img src="./assets/Screenshot%202026-08-18%20at%207.08.26%20PM.png" alt="Forest Alerts Dashboard" width="48%" />
 
+<br><br>
+
+### 🤖 AI-Powered Features
+
+<img src="./assets/Screenshot%202026-08-18%20at%207.09.33%20PM
 ## 🛠️ Tech Stack
 
 - **Frontend:** React 19 with TypeScript
