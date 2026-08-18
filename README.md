@@ -36,25 +36,11 @@
 
 ---
 
-<br><br>
-
-### 🤖 Additional Features
-
-<img src="./assets/features.png" alt="Forest Guardian Features" width="70%" />
-
-</div>
-<br><br>
-
-### 🚨 Incident & Alert Management
-
-<img src="./assets/Screenshot%202026-08-18%20at%207.08.21%20PM.png" alt="Forest Incident Management" width="48%" />
-<img src="./assets/Screenshot%202026-08-18%20at%207.08.26%20PM.png" alt="Forest Alerts Dashboard" width="48%" />
 
 <br><br>
 
 ### 🤖 AI-Powered Features
 
-<img src="./assets/Screenshot%202026-08-18%20at%207.09.33%20PM
 ## 🛠️ Tech Stack
 
 - **Frontend:** React 19 with TypeScript
