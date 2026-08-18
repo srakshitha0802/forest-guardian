@@ -36,22 +36,6 @@
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-
-### 🌲 Dashboard & Monitoring
-
-<img src="./assets/dashboard-1.png" alt="Forest Guardian Dashboard" width="48%" />
-<img src="./assets/dashboard-2.png" alt="Forest Guardian Monitoring" width="48%" />
-
-<br><br>
-
-### 🚨 Incident & Alert Management
-
-<img src="./assets/incidents.png" alt="Incident Management" width="48%" />
-<img src="./assets/alerts.png" alt="Alert Management" width="48%" />
-
 <br><br>
 
 ### 🤖 Additional Features
