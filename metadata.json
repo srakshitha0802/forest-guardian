@@ -1,0 +1,6 @@
+{
+  "name": "Forest Guardian",
+  "description": "AI-Based Forest Monitoring, Patrol Tracking & Incident Management System with multi-role mobile interface for Forest Officers, Range Officers, and Department Admins.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
